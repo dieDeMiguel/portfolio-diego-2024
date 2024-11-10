@@ -1,0 +1,222 @@
+{
+  "hero": {
+    "title": "Plantilla web para uso general",
+    "subtitle": "Crea proyectos increíbles centrándote solo en lo que importa. Prototipa y escala las cosas más rápido de lo que jamás imaginaste.",
+    "cta": "¿Qué incluye?"
+  },
+  "features": {
+    "title": "Características principales",
+    "items": [
+      {
+        "title": "Plantilla Next.js",
+        "description": "Usando Next.js para gestionar la experiencia del usuario."
+      },
+      {
+        "title": "Renderizado del lado del servidor",
+        "description": "Rendimiento mejorado y SEO mediante SSR."
+      },
+      {
+        "title": "Soporte i18n",
+        "description": "Experiencia multilingüe con un selector de idiomas integrado."
+      },
+      {
+        "title": "Diseño Responsive",
+        "description": "Diseños adaptables para dispositivos móviles, tabletas y computadoras de escritorio."
+      },
+      {
+        "title": "Compatible con Tailwind",
+        "description": "Diseñado con TailwindCSS para una personalización rápida."
+      },
+      {
+        "title": "Soporte TypeScript",
+        "description": "Compatibilidad completa con TypeScript para un tipado robusto."
+      },
+      {
+        "title": "Accesibilidad en mente",
+        "description": "Declaración de accesibilidad con los últimos controles de WCAG 2.2/2.1."
+      },
+      {
+        "title": "Optimización SEO",
+        "description": "Configuraciones SEO preconfiguradas para mejorar la visibilidad."
+      },
+      {
+        "title": "Página de error 404",
+        "description": "Página personalizada 404 para guiar a los usuarios cuando se pierden."
+      },
+      {
+        "title": "Formulario de contacto",
+        "description": "Integrado con Formspree para una gestión sencilla de mensajes."
+      },
+      {
+        "title": "Integración de Newsletter",
+        "description": "Recopilación fácil de suscripciones de correo electrónico con soporte integrado."
+      },
+      {
+        "title": "Consentimiento de Cookies",
+        "description": "Banner de consentimiento de cookies para cumplir con las regulaciones de GDPR."
+      },
+      {
+        "title": "¡Y mucho más!",
+        "description": "Lleno de características adicionales para optimizar su flujo de trabajo."
+      }
+    ]
+  },
+  "companies": {
+    "title": "Empresas de confianza"
+  },
+  "steps": {
+    "title": "Así funciona",
+    "subtitle": "Sigue estos pasos para empezar con tu nuevo proyecto.",
+    "step1": "Consigue la plantilla",
+    "step1Description": "Descarga la plantilla del mercado y descomprímela. Asegúrate de tener la última versión estable de Node.js instalada.",
+    "step2": "Personaliza el contenido",
+    "step2Description": "Edita el contenido después de leer las instrucciones. Puedes agregar o quitar idiomas, crear nuevas páginas, y mucho más.",
+    "step3": "Publica el proyecto",
+    "step3Description": "Sube el proyecto a tu proveedor de hosting preferido. Te recomiendo Vercel por su facilidad de uso.",
+    "step4": "Disfruta el resultado",
+    "step4Description": "¡Listo! Disfruta tu nuevo proyecto y avísame si necesitas ayuda."
+  },
+  "faq_landing": {
+    "title": "Preguntas frecuentes",
+    "questions": [
+      {
+        "question": "¿Dónde puedo adquirir esta plantilla?",
+        "answer": "Puedes adquirir esta plantilla en mi <a target='_blank' rel='nofollow noopener' href='https://manusansan.gumroad.com/l/template-landing-nextjs'>página de Gumroad</a>."
+      },
+      {
+        "question": "¿Qué tecnologías utiliza esta plantilla?",
+        "answer": "La plantilla usa la última versión de Next.js (15), junto con Tailwind CSS, ShadCN, Buttondown para el newsletter y Formspree para el formulario de contacto."
+      },
+      {
+        "question": "¿Cómo puedo personalizar el contenido?",
+        "answer": "El contenido es fácilmente personalizable en archivos JSON. Todo está explicado en la documentación del proyecto."
+      },
+      {
+        "question": "¿Puedo expandir el proyecto?",
+        "answer": "Sí, puedes expandir el proyecto siguiendo la misma estructura y dinámica."
+      },
+      {
+        "question": "¿Es este sitio accesible?",
+        "answer": "Sí, este sitio es muy accesible y cumple con los estándares WCAG 2.2 AA."
+      },
+      {
+        "question": "¿Cómo puedo contactar con soporte?",
+        "answer": "Puedes contactarnos en <a href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com<a/>."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Suscríbete a nuestro newsletter",
+    "subtitle": "Mantente al día con las últimas noticias y novedades de nuestro equipo.",
+    "ctaIdle": "¡Me apunto!",
+    "ctaLoading": "Suscribiendo...",
+    "ctaSuccess": "¡Suscrito!",
+    "ctaError": "Error. Inténtalo de nuevo.",
+    "ctaAlready": "Ya estás suscrito",
+    "terms": "Al suscribirte, aceptas recibir correos electrónicos de marketing de nuestra parte. Puedes darte de baja en cualquier momento. Para obtener más información, consulta nuestra Política de privacidad."
+  },
+  "error404": {
+    "title": "Error 404 - Página no encontrada",
+    "description": "¡Hola! Parece que has llegado a un lugar que no existe. Si quieres dejarme algún comentario, puedes hacerlo a través de mi correo <a className='ml-1' href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com</a>.",
+    "moreInfo": "Prueba a volver a la página de inicio o a la página anterior. ¡Gracias por tu paciencia!",
+    "toStart": "Volver a la página de inicio"
+  },
+  "help": {
+    "title": "¿Necesitas Ayuda? Presiona"
+  },
+  "contact": {
+    "title": "Contacto",
+    "inputName": "Nombre",
+    "inputEmail": "Correo Electrónico",
+    "inputMessage": "Mensaje",
+    "consent": "Acepto el tratamiento de mis datos según la política de privacidad.",
+    "ctaIdle": "Enviar",
+    "ctaLoading": "Cargando...",
+    "ctaSuccess": "¡Enviado!",
+    "thankYou": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo lo antes posible.",
+    "placeholderName": "Paco López",
+    "placeholderMessage": "Escribe tu mensaje aquí...",
+    "placeholderEmail": "pacolopez@yahoo.es"
+  },
+  "general": {
+    "language": "Idioma",
+    "settings": "Ajustes",
+    "search": "Buscar",
+    "navigation": "Navegación",
+    "learnMore": "Más información",
+    "back": "Volver",
+    "next": "Siguiente",
+    "skipToMainContent": "Ir al contenido principal",
+    "accessibility": "Accesibilidad",
+    "accessibilityStatement": "Declaración de accesibilidad"
+  },
+  "command_help": {
+    "searchPlaceholder": "Escribe un comando o busca...",
+    "suggestions": "Sugerencias",
+    "settings": "Ajustes",
+    "noResults": "No se encontraron resultados.",
+    "optTemplate": "¿Dónde puedo encontrar más plantillas como esta?",
+    "optAuthor": "¿Quién es el autor de esta plantilla?",
+    "optCookies": "Gestionar Cookies"
+  },
+  "youtube": {
+    "title": "Un vídeo vale más que 1000 palabras",
+    "subtitle": "Seguramente necesites usar vídeos en algún momento... No te preocupes, te lo tengo todo preparado, incluso el manejo de las cookies",
+    "cta": "Dar consentimiento",
+    "text": "Al hacer clic en el botón, aceptas el procesamiento de tus datos en relación con el vídeo de YouTube."
+  },
+  "releases_page_hero": {
+    "title": "Las últimas versiones",
+    "subtitle": "Mantente al día con las últimas versiones y mejoras."
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2024-11-05",
+      "features": [
+        "Añadir página de inicio principal con secciones Hero, características, pasos, preguntas frecuentes, empresas y boletín"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "2024-11-06",
+      "features": [
+        "Añadir página de releases con lista de releases",
+        "Añadir página de contacto con conexión de formulario a Formspree"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "2024-11-07",
+      "features": [
+        "Añadir gestión de cookies con Vanilla CookieConsent",
+        "Añadir gestión de YouTube Videos con cookies"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "2024-11-07",
+      "features": [
+        "Añadir página de error 404 con soporte i18n",
+        "Añadir soporte ogimage para compartir en redes sociales",
+        "Añadir favicon"
+      ]
+    },
+    {
+      "version": "0.1.4",
+      "date": "2024-11-08",
+      "features": [
+        "Crear un link Skip to main content ",
+        "Mejorar la accesibilidad de la página"
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "2024-11-10",
+      "features": [
+        "Añadir BlockRenderer para contenido dinámico",
+        "Añadir página de declaración de accesibilidad"
+      ]
+    }
+  ]
+}

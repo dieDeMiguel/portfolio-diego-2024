@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404
+
+Sitemap: https://template-landing-nextjs-i18n.vercel.app/sitemap.xml

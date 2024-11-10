@@ -1,0 +1,222 @@
+{
+  "hero": {
+    "title": "Sauberer Landing Pages für den allgemeinen Gebrauch",
+    "subtitle": " Erstelle erstaunliche Projekte, indem du dich nur auf das Wesentliche konzentrierst. Prototypen und eskalieren Dinge schneller, als du dir jemals vorgestellt hast.",
+    "cta": "Was ist enthalten?"
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "items": [
+      {
+        "title": "Next.js-Vorlage",
+        "description": "Verwenden von Next.js, um die Benutzererfahrung zu gestalten."
+      },
+      {
+        "title": "Server-Side Rendering",
+        "description": "Verbesserte Leistung und SEO durch SSR."
+      },
+      {
+        "title": "i18n-Unterstützung",
+        "description": "Mehrsprachige Erfahrung mit integriertem Sprachumschalter."
+      },
+      {
+        "title": "Responsives Design",
+        "description": "Anpassbare Layouts für Mobilgeräte, Tablets und Desktops."
+      },
+      {
+        "title": "Tailwind-Kompatibilität",
+        "description": "Gestaltet mit TailwindCSS für schnelle Anpassungen."
+      },
+      {
+        "title": "TypeScript-Unterstützung",
+        "description": "Vollständige TypeScript-Kompatibilität für robustes Typing."
+      },
+      {
+        "title": "Barrierefreiheit im Fokus",
+        "description": "Barrierefreiheitserklärung mit den neuesten WCAG 2.2/2.1-Standards."
+      },
+      {
+        "title": "SEO-Optimierung",
+        "description": "Vorkonfigurierte SEO-Einstellungen zur Verbesserung der Auffindbarkeit."
+      },
+      {
+        "title": "404-Fehlerseite",
+        "description": "Individuelle 404-Seite, die Benutzer unterstützt, wenn sie sich verirren."
+      },
+      {
+        "title": "Kontaktformular",
+        "description": "Integriert mit Formspree für einfache Nachrichtenverwaltung."
+      },
+      {
+        "title": "Newsletter-Integration",
+        "description": "Einfaches Sammeln von E-Mail-Abonnements mit integrierter Unterstützung."
+      },
+      {
+        "title": "Cookie-Zustimmung",
+        "description": "Cookie-Zustimmungs-Banner zur Einhaltung der DSGVO."
+      },
+      {
+        "title": "Und mehr!",
+        "description": "Vollgepackt mit weiteren Funktionen zur Optimierung Ihres Workflows."
+      }
+    ]
+  },
+  "companies": {
+    "title": "Vertrauen von Unternehmen"
+  },
+  "steps": {
+    "title": "So funktioniert's",
+    "subtitle": "Folge diesen Schritten, um mit deinem neuen Projekt loszulegen.",
+    "step1": "Hol dir das Template",
+    "step1Description": "Lade das Template aus dem Marktplatz herunter und entpacke es. Stelle sicher, dass du die neueste stabile Version von Node.js installiert hast.",
+    "step2": "Passe den Inhalt an",
+    "step2Description": "Bearbeite den Inhalt, nachdem du die Anweisungen gelesen hast. Du kannst Sprachen hinzufügen oder entfernen, neue Seiten erstellen und mehr.",
+    "step3": "Projekt veröffentlichen",
+    "step3Description": "Stelle das Projekt bei deinem bevorzugten Hosting-Anbieter online. Ich empfehle Vercel, weil es so einfach ist.",
+    "step4": "Genieße das Ergebnis",
+    "step4Description": "Fertig! Genieße dein neues Projekt und melde dich, wenn du Hilfe brauchst."
+  },
+  "faq_landing": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wo kann ich dieses Template erwerben?",
+        "answer": "Du kannst dieses Template auf der <a target='_blank' rel='nofollow noopener' href='https://manusansan.gumroad.com/l/template-landing-nextjs'>Gumroad-Website</a> erwerben."
+      },
+      {
+        "question": "Welche Technologien werden in diesem Template verwendet?",
+        "answer": "Dieses Template nutzt die neueste Version von Next.js (15) zusammen mit Tailwind CSS, ShadCN, Buttondown für den Newsletter und Formspree für Kontaktformulare."
+      },
+      {
+        "question": "Wie kann ich den Inhalt anpassen?",
+        "answer": "Der Inhalt ist leicht in JSON-Dateien anpassbar. Alles ist in der Projektdokumentation erklärt."
+      },
+      {
+        "question": "Kann ich das Projekt erweitern?",
+        "answer": "Ja, du kannst das Projekt erweitern, indem du der gleichen Struktur und Dynamik folgst."
+      },
+      {
+        "question": "Ist diese Seite barrierefrei?",
+        "answer": "Ja, diese Seite ist sehr barrierefrei und erfüllt die WCAG 2.2 AA-Standards."
+      },
+      {
+        "question": "Wie kann ich den Support kontaktieren?",
+        "answer": "Du kannst uns unter <a href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com<a/> erreichen."
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Abonniere unseren Newsletter",
+    "subtitle": "Bleib auf dem Laufenden mit den neuesten News und Updates von uns.",
+    "ctaIdle": "Abonnieren",
+    "ctaLoading": "Wird abonniert...",
+    "ctaSuccess": "Abonniert!",
+    "ctaError": "Fehler. Versuch es nochmal.",
+    "ctaAlready": "Schon abonniert",
+    "terms": "Ich stimme der Verarbeitung meiner Daten zu gemäß den Datenschutzrichtlinien."
+  },
+  "help": {
+    "title": "Hilfe? Drücken"
+  },
+  "error404": {
+    "title": "Error 404 - Seite nicht gefunden",
+    "description": "Hi, es scheint, als ob du dich verirrt hast. Die Seite, die du suchst, existiert nicht. Wenn du Hilfe benötigst, kontaktiere uns unter <a className='ml-1' href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com</a>.",
+    "moreInfo": "Versuche, zur Startseite oder zur vorherigen Seite zurückzukehren. Danke für deine Geduld!",
+    "toStart": "Zur Startseite"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "inputName": "Name",
+    "inputEmail": "E-Mail-Adresse",
+    "inputMessage": "Nachricht",
+    "consent": "Ich stimme der Verarbeitung meiner Daten gemäß der Datenschutzerklärung zu.",
+    "ctaIdle": "Absenden",
+    "ctaLoading": "Lädt...",
+    "ctaSuccess": "Erfolgreich!",
+    "thankYou": "Danke für deine Nachricht! Wir werden uns so schnell wie möglich bei dir melden.",
+    "placeholderName": "Max Mustermann",
+    "placeholderMessage": "Deine Nachricht hier eingeben...",
+    "placeholderEmail": "maxmustermann@gmx.de"
+  },
+  "general": {
+    "language": "Sprache",
+    "settings": "Einstellungen",
+    "search": "Suche",
+    "navigation": "Navigation",
+    "learnMore": "Mehr erfahren",
+    "back": "Zurück",
+    "next": "Weiter",
+    "skipToMainContent": "Zum Hauptinhalt springen",
+    "accessibility": "Barrierefreiheit",
+    "accessibilityStatement": "Barrierefreiheitserklärung"
+  },
+  "command_help": {
+    "searchPlaceholder": "Gib einen Befehl ein oder suche...",
+    "suggestions": "Vorschläge",
+    "settings": "Einstellungen",
+    "noResults": "Keine Ergebnisse gefunden.",
+    "optTemplate": "Wo finde ich mehr Vorlagen wie diese?",
+    "optAuthor": "Wer ist der Autor dieser Vorlage?",
+    "optCookies": "Cookies verwalten"
+  },
+  "youtube": {
+    "title": "Video-Support ist bereit",
+    "subtitle": "Wahrscheinlich brauchst du irgendwann ein Video, aber keine Sorge, wir haben dich abgedeckt. Auch der Umgang mit den Cookies wird erklärt.",
+    "cta": "Zustimmen",
+    "text": "Durch Klicken auf die Schaltfläche stimmen Sie der Verarbeitung Ihrer Daten in Bezug auf das YouTube-Video zu."
+  },
+  "releases_page_hero": {
+    "title": "Die neuesten Versionen",
+    "subtitle": "Bleib auf dem Laufenden mit den neuesten Versionen und Verbesserungen."
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2024-11-05",
+      "features": [
+        "Hauptseite mit Hero, Features, Schritten, FAQ, Unternehmen und Newsletter-Abschnitten hinzufügen"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "2024-11-06",
+      "features": [
+        "Proto-Release-Seite mit Liste der Veröffentlichungen hinzufügen",
+        "Kontaktseite mit Formularverbindung zu Formspree hinzufügen"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "2024-11-07",
+      "features": [
+        "Cookie-Zustimmungsbanner zur Einhaltung der DSGVO hinzufügen",
+        "YouTube-Videomanagement mit Cookies hinzufügen"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "2024-11-07",
+      "features": [
+        "Fehlerseite 404 mit i18n Support hinzufügen",
+        "og:image-Unterstützung für das Teilen in sozialen Medien hinzufügen",
+        "favicon hinzufügen"
+      ]
+    },
+    {
+      "version": "0.1.4",
+      "date": "2024-11-08",
+      "features": [
+        "Skip to main content Link erstellen",
+        "Barrierefreiheit verbessern"
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "2024-11-10",
+      "features": [
+        "BlockRenderer für dynamische Inhalte hinzufügen",
+        "Barrierefreiheitserklärung hinzufügen"
+      ]
+    }
+  ]
+}

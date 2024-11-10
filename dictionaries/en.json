@@ -1,0 +1,225 @@
+{
+  "hero": {
+    "title": "Clean Landing Pages For General Use",
+    "subtitle": "Create amazing projects by just focusing on what matters. Prototype and escalate things faster than you even imagined.",
+    "cta": "What does it include?"
+  },
+  "features": {
+    "title": "Main Features",
+    "items": [
+      {
+        "title": "Nextjs Template",
+        "description": "Using Nextjs to handle the experience"
+      },
+      {
+        "title": "Server-Side Rendering",
+        "description": "Enhanced performance and SEO through SSR."
+      },
+      {
+        "title": "i18n Support",
+        "description": "Multilingual experience with an integrated language switcher."
+      },
+      {
+        "title": "Responsive Design",
+        "description": "Adaptable layouts for mobile, tablet, and desktop views."
+      },
+      {
+        "title": "Tailwind Compatible",
+        "description": "Styled with TailwindCSS for fast customization."
+      },
+      {
+        "title": "TypeScript Support",
+        "description": "Full TypeScript compatibility for robust typing."
+      },
+      {
+        "title": "Accessibility First",
+        "description": "Accessibility Statement with latest WCAG 2.2 2.1 checks are there."
+      },
+      {
+        "title": "SEO Optimized",
+        "description": "Preconfigured SEO settings to boost discoverability."
+      },
+      {
+        "title": "404 Error Page",
+        "description": "Custom 404 page to guide users when lost."
+      },
+      {
+        "title": "Contact Form",
+        "description": "Integrated with Formspree for easy message handling."
+      },
+      {
+        "title": "Newsletter Integration",
+        "description": "Easily collect email subscriptions with built-in support."
+      },
+      {
+        "title": "Cookie Consent",
+        "description": "Cookie consent banner to comply with GDPR regulations."
+      },
+      {
+        "title": "And More!",
+        "description": "Packed with additional features to enhance your workflow."
+      }
+    ],
+    "help": {
+      "title": "Need Help? Press"
+    }
+  },
+  "companies": {
+    "title": "Companies working with us"
+  },
+  "newsletter": {
+    "title": "Subscribe to our newsletter",
+    "subtitle": "Stay up to date with the latest news and updates from our team.",
+    "ctaIdle": "Subscribe",
+    "ctaLoading": "Subscribing...",
+    "ctaSuccess": "Subscribed!",
+    "ctaError": "Error. Try again.",
+    "ctaAlready": "Already subscribed",
+    "terms": "By subscribing, you agree to receive our newsletter and agree with our Privacy Policy. You can unsubscribe at any time."
+  },
+  "steps": {
+    "title": "This is how it works",
+    "subtitle": "Follow these steps to get started with your new project.",
+    "step1": "Acquire the template",
+    "step1Description": "Get the template from the marketplace and unzip it. Make sure you have the latest stable version of Node.js installed.",
+    "step2": "Customize the content",
+    "step2Description": "Edit the content after reading the instructions. You can add or remove languages, create new pages, and more.",
+    "step3": "Deploy the project",
+    "step3Description": "Deploy the project to your preferred hosting provider. I would recommend for the ease to use Vercel.",
+    "step4": "Enjoy the results",
+    "step4Description": "You are all set! Enjoy your new project and let me know if you need any help."
+  },
+  "faq_landing": {
+    "title": "Frequent Asked Questions",
+    "questions": [
+      {
+        "question": "Where can I acquire this template?",
+        "answer": "You can acquire this template on my <a target='_blank' rel='nofollow noopener' href='https://manusansan.gumroad.com/l/template-landing-nextjs'>Gumroad website</a>."
+      },
+      {
+        "question": "What technologies does this template use?",
+        "answer": "The template uses the latest version of Next.js (15), along with Tailwind CSS, ShadCN, Buttondown for the newsletter, and Formspree for contact forms."
+      },
+      {
+        "question": "How can I customize the content?",
+        "answer": "The content is easily customizable in JSON files. Everything is explained in the project documentation."
+      },
+      {
+        "question": "Can I expand this project?",
+        "answer": "Yes, you can expand the project by following the same structure and dynamics as provided."
+      },
+      {
+        "question": "Is this site accessible?",
+        "answer": "Yes, this site is highly accessible and abides by WCAG 2.2 AA standards."
+      },
+      {
+        "question": "How can I contact support?",
+        "answer": "You can reach us at <a href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com<a/>."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "inputName": "Name",
+    "inputEmail": "Email Address",
+    "inputMessage": "Message",
+    "consent": "I agree to the processing of my data according to the privacy policy.",
+    "ctaIdle": "Submit",
+    "ctaLoading": "Loading...",
+    "ctaSuccess": "Success!",
+    "thankYou": "Thank you for your message! We will get back to you as soon as possible.",
+    "placeholderName": "John Doe",
+    "placeholderMessage": "Type your message here...",
+    "placeholderEmail": "johndoe@gmail.com"
+  },
+  "help": {
+    "title": "Need Help? Press"
+  },
+  "error404": {
+    "title": "Error 404 - Page not found",
+    "description": "Hi, it seems you are lost in the vastness of the internet. Don't worry, I'm here to help you. If you need help, don't hesitate to contact me at <a className='ml-1' href='mailto:manusansan22@gmail.com'>manusansan22@gmail.com</a>.",
+    "moreInfo": "Try going back to the homepage or the previous page. Thanks for your patience!",
+    "toStart": "Back to homepage"
+  },
+  "general": {
+    "language": "Language",
+    "settings": "Settings",
+    "search": "Search",
+    "navigation": "Navigation",
+    "learnMore": "Learn More",
+    "back": "Back",
+    "next": "Next",
+    "skipToMainContent": "Skip to main content",
+    "accessibility": "Accessibility",
+    "accessibilityStatement": "Accessibility Statement"
+  },
+  "command_help": {
+    "searchPlaceholder": "Type a command or search...",
+    "suggestions": "Suggestions",
+    "settings": "Settings",
+    "noResults": "No results found.",
+    "optTemplate": "Where can I find more templates like this?",
+    "optAuthor": "Who is the author of this?",
+    "optCookies": "Manage Cookies"
+  },
+  "youtube": {
+    "title": "Use video to enhance your project",
+    "subtitle": "Probably you will need some video, but don't worry, we got you covered. Also the handling with the cookies is explained.",
+    "cta": "Give consent",
+    "text": "By clicking the button, you agree to the processing of your data regarding the YouTube video."
+  },
+  "releases_page_hero": {
+    "title": "The Latest Versions",
+    "subtitle": "Stay up to date with the latest versions and improvements."
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2024-11-05",
+      "features": [
+        "Add main home page with hero, features, steps, faq, companies, and newsletter sections"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "2024-11-06",
+      "features": [
+        "Add proto release page with list of releases",
+        "Add contact page with form connection to Formspree"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "2024-11-07",
+      "features": [
+        "Add cookie consent handling in the three languages",
+        "Add YouTube video support with cookie consent"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "2024-11-07",
+      "features": [
+        "Add 404 page with i18n support",
+        "Add ogimage support for social media sharing",
+        "Add favicon"
+      ]
+    },
+    {
+      "version": "0.1.4",
+      "date": "2024-11-08",
+      "features": [
+        "Create a Skip to main content Link",
+        "Improve the general accessibility of the page"
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "2024-11-10",
+      "features": [
+        "Add BlockRenderer for dynamic content",
+        "Add Accessibility Statement Page"
+      ]
+    }
+  ]
+}
